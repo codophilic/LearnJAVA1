@@ -56,6 +56,8 @@ The components of JRE are as follows:
 
 - Enter into JSHELL `jshell [options] [load-files]`
 
-- Learn more about it here.![](https://dev.java/learn/jshell-tool/)
+- Learn more about it [here.](https://dev.java/learn/jshell-tool/)
+
+![](https://github.com/codophilic/LearnJAVA/blob/main/Images/2.PNG)
 
 
