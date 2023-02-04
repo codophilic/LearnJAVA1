@@ -50,4 +50,12 @@ The components of JRE are as follows:
 
 - Javac is the standard Java compiler and part of the Java Development Kit. It creates bytecode for the Java virtual machine from valid Java code.
 
+# JSHELL
+
+- **jshell** provides a way to interactively evaluate declarations, statements, and expressions of the Java programming language, making it easier to learn the language, explore unfamiliar code and APIs, and prototype complex code. Java statements, variable definitions, method definitions, class definitions, import statements, and expressions are accepted. The bits of code entered are called snippets.
+
+- Enter into JSHELL `jshell [options] [load-files]`
+
+- Learn more about it here.![](https://dev.java/learn/jshell-tool/)
+
 
