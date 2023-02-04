@@ -18,7 +18,7 @@
 
 3. JVM (Java Virtual Machine) is a very important part of both JDK and JRE because it is contained or inbuilt in both. Whatever Java program you run using JRE or JDK goes into JVM and JVM is responsible for executing the java program line by line, hence it is also known as an interpreter.
 
-##JRE
+## JRE
 
 The components of JRE are as follows:
 
@@ -33,5 +33,7 @@ The components of JRE are as follows:
 5. **Lang and util base libraries**, including lang and util, management, versioning, zip, instrument, reflection, Collections, Concurrency Utilities, Java Archive (JAR), Logging, Preferences API, Ref Objects, and Regular Expressions.
 
 6. **Java Virtual Machine (JVM)**, including Java HotSpot Client and Server Virtual Machines.
+
+!()[https://github.com/codophilic/LearnJAVA/blob/main/Images/1.PNG]
 
 
