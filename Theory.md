@@ -8,15 +8,15 @@
 
 # JVM,JRE and JDK
 
-1. JDK (Java Development Kit) is a Kit that provides the environment to develop and execute(run) the Java program. JDK is a kit(or package) that includes two things
+1. **JDK (Java Development Kit)** is a Kit that provides the environment to develop and execute(run) the Java program. JDK is a kit(or package) that includes two things
 
  - Development Tools(to provide an environment to develop your java programs)
 
 - JRE (to execute your java program).
 
-2. JRE (Java Runtime Environment) is an installation package that provides an environment to only run(not develop) the java program(or application)onto your machine. JRE is only used by those who only want to run Java programs that are end-users of your system.
+2. **JRE (Java Runtime Environment)** is an installation package that provides an environment to only run(not develop) the java program(or application)onto your machine. JRE is only used by those who only want to run Java programs that are end-users of your system.
 
-3. JVM (Java Virtual Machine) is a very important part of both JDK and JRE because it is contained or inbuilt in both. Whatever Java program you run using JRE or JDK goes into JVM and JVM is responsible for executing the java program line by line, hence it is also known as an interpreter.
+3. **JVM (Java Virtual Machine)** is a very important part of both JDK and JRE because it is contained or inbuilt in both. Whatever Java program you run using JRE or JDK goes into JVM and JVM is responsible for executing the java program line by line, hence it is also known as an interpreter.
 
 ## JRE
 
@@ -44,11 +44,13 @@ The components of JRE are as follows:
 
 - Consider a java source file saved as ‘Example.java’. The file is compiled into a set of Byte Code that is stored in a “.class” file. Here it will be “Example.class“. 
 
-## javac
+## javac(compiler)
 
 - The javac is the primary Java compiler included in the Java Development Kit (JDK). It converts the java source code into byte code.
 
-- Javac is the standard Java compiler and part of the Java Development Kit. It creates bytecode for the Java virtual machine from valid Java code.
+- Javac is the standard Java compiler and part of the Java Development Kit. It creates bytecode for the Java virtual machine from valid Java code. 
+
+- First we need to compile the code using command `javac path/to/filename.java` then run the code using command `java path/to/filename.java'`
 
 # JSHELL
 
