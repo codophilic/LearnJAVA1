@@ -25,7 +25,7 @@ public class TypeConversionAndCasting {
           small=(byte)bigval;  //257%256(byte range)=1->(ans)
           System.out.println(small);
 
-          // Tye Promotion
+          // Type Promotion
           byte val1=10;
           byte val2=30;
 

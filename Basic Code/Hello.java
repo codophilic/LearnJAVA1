@@ -1,5 +1,5 @@
 class Hello{
-    public static void main( String a[] )
+    public static void main( String a[] ) // Control + click on keyword to see documentation
     {
         System.out.println("Hello World");
     }

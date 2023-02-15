@@ -1,4 +1,3 @@
-import javax.naming.spi.DirStateFactory.Result;
 
 public class ConditionalStatements {
     public static void main( String args[]){

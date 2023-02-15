@@ -3,7 +3,7 @@ class Variables{
     {
         //DataType = assignment
         int age = 23;
-        String name = "Harsh";
+        String name = "Harsh"; //Always used double quotes because single quotes are used for char. String is a class and not primitive data type.
         char c ='H'; //Accepty only single character, works in single quotes
         double bw = 80.7;
         boolean male = true;
