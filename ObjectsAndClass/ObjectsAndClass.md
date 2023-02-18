@@ -65,7 +65,7 @@
 
 - If we changed any value variable of a particular object it does not affect other objects. 
 
-![](https://github.com/codophilic/LearnJAVA/blob/main/Images/3.PNG)
+![](https://github.com/codophilic/LearnJAVA/blob/main/Images/3.jpg)
 
 - In JVM there is a string constant pool which maintain string values.
 
