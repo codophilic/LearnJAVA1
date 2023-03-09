@@ -96,7 +96,7 @@ ALL	Integer.MIN_VALUE	Capturing Everything
 
 - Capturing everything may mean every field declaration, definition, every method call, every assignment performed etc.
 
-
+## Log4J in WebDevelopment JAVA
 
 
 
