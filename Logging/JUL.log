@@ -1,0 +1,14 @@
+Mar 09, 2023 7:40:01 PM Logging.JUL main
+FINEST: This is a finest message.
+Mar 09, 2023 7:40:01 PM Logging.JUL main
+FINER: This is a finer message.
+Mar 09, 2023 7:40:01 PM Logging.JUL main
+FINE: This is a fine message.
+Mar 09, 2023 7:40:01 PM Logging.JUL main
+CONFIG: This is a config message.
+Mar 09, 2023 7:40:01 PM Logging.JUL main
+INFO: This is an informational message.
+Mar 09, 2023 7:40:01 PM Logging.JUL main
+WARNING: This is a warning message.
+Mar 09, 2023 7:40:01 PM Logging.JUL main
+SEVERE: This is a severe message.
